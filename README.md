@@ -1,10 +1,7 @@
 # Aljabar_linier
-# Aljabar_linier
 <font color='purple' size=2.5><i>Updated on 18 Nov 2021</i></font>
-![Presentation1](https://user-images.githubusercontent.com/59842360/159695863-678be5bc-d146-4340-9592-003ad93241e1.jpg)
-# Lectures of Linear Algebra [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
 
-These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc. 
+hese lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc. 
 
 The lectures notes are loosely based on several textbooks:
 
@@ -13,7 +10,6 @@ The lectures notes are loosely based on several textbooks:
 3. <b><i>Introduction to Linear Algebra With Applications</i></b> by DeFranza & Gagliardi
 4. <b><i>Linear Algebra With Applications</i></b> by Gareth Williams
 
-![cover-min](https://user-images.githubusercontent.com/59842360/83939172-64df6c00-a7e3-11ea-80b1-058af696d5a3.png)
 
 However, the crux of the course is not about proving theorems, but to demonstrate the practices and visualization of the concepts. Thus we will not engage in strictly precise deduction or notation, rather we aim to clarify the elusive concepts and thanks to Python/MATLAB, the task is much easier now.
 
