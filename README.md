@@ -1,7 +1,6 @@
 # Aljabar_linier
-<font color='purple' size=2.5><i>Updated on 18 Nov 2021</i></font>
 
-hese lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc. 
+These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc. 
 
 The lectures notes are loosely based on several textbooks:
 
