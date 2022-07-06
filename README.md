@@ -14,8 +14,8 @@ Bahan Ajar dibuat berdasarkan sumber berikut:
 - [x] SymPy
 
 
-[Basic Matrix Algebra](https://nbviewer.jupyter.org/github/MacroAnalyst/Linear_Algebra_With_Python/blob/master/Chapter%202%20-%20Basic%20Matrix%20Algebra.ipynb)<br>
-[Vector Operations](https://nbviewer.jupyter.org/github/WeijieChen-MacroAnalyst/Linear_Algebra_With_Python/blob/master/Chapter%205%20-%20Vector%20Addition%2C%20Subtraction%20and%20Scalar%20Multiplication.ipynb)<br>
+[Basic Matrix Algebra](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Matriks.ipynb)<br>
+[Vector Operations](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Vektor.ipynb)<br>
 
 
 
