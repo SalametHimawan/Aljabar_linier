@@ -100,7 +100,6 @@ def plot_vector(vectors, tails=None):
     axis.set_xlim([-limit, limit])
     axis.set_ylim([-limit, limit])
     axis.set_aspect('equal')
-    [axi.set_axis_off() for axi in axis.ravel()]
 
     # if xticks and yticks of grid do not match, choose the finer one
     xticks = axis.get_xticks()
