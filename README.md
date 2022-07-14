@@ -13,10 +13,16 @@ Bahan Ajar dibuat berdasarkan sumber berikut:
 - [x] Matplotlib
 - [x] SymPy
 
-[Modul](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/SalametHimawan/Aljabar_linier/main/Modul%20Aljabar%20Linier.pdf)<br>
-[Basic Matrix Algebra](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Matriks.ipynb)<br>
+Modul Ajar Aljabar Linier dapat diakses melalui:
+[Modul](https://github.com/SalametHimawan/Aljabar_linier/blob/main/Modul%20Aljabar%20Linier.pdf)<br>
+
+Notebook untuk Vektor dapat diakses melalui:
 [Vector Operations](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Vektor.ipynb)<br>
+
+Notebook untuk least square dapat diakses melalui:
 [Least Square](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Least%20Square.ipynb)<br>
+
+Notebook untuk Singular Value Decomposition dapat diakses melalui:
 [Singular Value Decomposition](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Singular%20Value%20Decomposition.ipynb)<br>
 
 
