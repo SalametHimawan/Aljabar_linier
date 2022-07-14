@@ -16,6 +16,9 @@ Bahan Ajar dibuat berdasarkan sumber berikut:
 
 [Basic Matrix Algebra](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Matriks.ipynb)<br>
 [Vector Operations](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Vektor.ipynb)<br>
+Least Square](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Least Square.ipynb)<br>
+[Singular Value Decomposition](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Singular Value Decomposition.ipynb)<br>
+
 
 
 
