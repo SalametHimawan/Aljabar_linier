@@ -12,7 +12,7 @@ Bahan Ajar dibuat berdasarkan sumber berikut:
 - [x] NumPy
 - [x] Matplotlib
 - [x] SymPy
-<embed src="[https://sumanbogati.github.io/sample.pdf](https://github.com/SalametHimawan/Aljabar_linier/blob/main/Modul%20Aljabar%20Linier.pdf)" type="application/pdf" />
+[Modul]<embed src="[https://sumanbogati.github.io/sample.pdf](https://github.com/SalametHimawan/Aljabar_linier/blob/main/Modul%20Aljabar%20Linier.pdf)" type="application/pdf" /><br>
 [Modul](https://docs.google.com/viewer?url=https://github.com/SalametHimawan/Aljabar_linier/blob/main/Modul%20Aljabar%20Linier.pdf)<br>
 [Basic Matrix Algebra](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Matriks.ipynb)<br>
 [Vector Operations](https://nbviewer.org/github/SalametHimawan/Aljabar_linier/blob/main/notebook_id/Vektor.ipynb)<br>
